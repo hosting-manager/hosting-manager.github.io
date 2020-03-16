@@ -1,0 +1,43 @@
+{
+    "Rupavahini": {
+        "url": "http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w1800345460.m3u8",
+        "type": "m3u8"
+    },
+    "ITN": {
+        "url": "https://eu10b.serverse.com:1936/itndvr2/smil:itndvr2.smil/chunklist_w466799590_b350000_DVR_slen.m3u8", 
+        "type": "m3u8"
+    },
+    "Eye": {
+        "url": "http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist_w195112352.m3u8",
+        "type": "m3u8"
+    },
+    "Swarnavahini": { 
+        "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/testt/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8", 
+        "type": "m3u8"
+    },
+    "Siyatha": {
+        "url":"http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8", 
+        "type": "m3u8"
+    },
+    "Hiru": { 
+        "url": "https://cdncities.com/8012/8012/chunklist_w547346981.m3u8", 
+        "type": "m3u8"
+    },
+    "Verbum": { 
+        "url": "https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8",
+        "type": "m3u8"
+    },
+    "Derana": { 
+        "url": "https://www.youtube.com/watch?v=1Wl9wHX9hwA",
+        "type": "youtube"
+    },
+    "Sirasa": {
+        "url": "https://www.youtube.com/watch?v=961_QDRrBKk",
+        "type": "youtube"
+    },
+    "TNL": {
+        "url": "https://www.youtube.com/watch?v=4KepmLtM8i8",
+        "type": "youtube"
+    }
+}
+
