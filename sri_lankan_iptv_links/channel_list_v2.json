@@ -1,21 +1,21 @@
 {
     "Rupavahini": {
-        "url": "http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w1800345460.m3u8",
+        "url": "http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w724898170.m3u8",
         "type": "m3u8",
         "icon": "rupavahini.jpg"
     },
     "ITN": {
-        "url": "https://eu10b.serverse.com:1936/itndvr2/smil:itndvr2.smil/chunklist_w466799590_b350000_DVR_slen.m3u8", 
+        "url": "https://eu10b.serverse.com:1936/itndvr2/itndvr2/chunklist_w171273091_DVR.m3u8", 
         "type": "m3u8",
         "icon": "itn.png"
     },
     "Eye": {
-        "url": "http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist_w195112352.m3u8",
+        "url": "http://dammikartmp.tulix.tv/slrc2/slrc2/chunklist_w1366175955.m3u8",
         "type": "m3u8",
         "icon": "eye.jpg"
     },
     "Swarnavahini": { 
-        "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/testt/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8", 
+        "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8", 
         "type": "m3u8",
         "icon": "swarnavahini.jpg"
     },
@@ -25,7 +25,7 @@
         "icon": "siyatha.jpg"
     },
     "Hiru": { 
-        "url": "https://cdncities.com/8012/8012/chunklist_w547346981.m3u8", 
+        "url": "https://eu10b.serverse.com:1936/8012/8012/chunklist_w818888534.m3u8", 
         "type": "m3u8",
         "icon": "hiru.jpg"
     },
@@ -35,7 +35,7 @@
         "icon": "verbum.png"
     },
     "Derana": { 
-        "url": "https://youtu.be/hK_DTA9k9BM",
+        "url": "https://www.youtube.com/watch?v=fuXiGmd3nxU",
         "type": "youtube",
         "icon": "derana.jpg"
     },
